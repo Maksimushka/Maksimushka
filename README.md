@@ -8,7 +8,7 @@
 
 #### Открыт к вашим предложениям.
 
-#### Skills:
+#### Навыки:
 ![React](https://img.shields.io/badge/-React-282c34?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-282c34?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-282c34?style=for-the-badge&logo=typeScript)
@@ -25,7 +25,7 @@
 ![StoryBook](https://img.shields.io/badge/-StoryBook-282c34?style=for-the-badge&logo=StoryBook)
 ![Material-UI](https://img.shields.io/badge/-Material_UI-282c34?style=for-the-badge&logo=material_design)
 
-#### Contact details:
+#### Контакты:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=telegram)](https://t.me/Maxim_Bil)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-282c34?style=for-the-badge&logo=linkedin&logoColor=764ABC)](https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D0%B1%D0%B8%D0%BB%D1%8C-3b9635210/)
